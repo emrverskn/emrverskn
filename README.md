@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate with other AWS Cloud and DevOps Engineers
 - 🥅 2024 Goals: Learning and traveling more
-- ⚡ Fun fact: I love traveling, swimming, discovering and woodworking
+- ⚡ Fun fact: I love traveling, discovering and reading
 
 ### Connect with me:
 
