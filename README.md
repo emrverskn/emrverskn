@@ -1,41 +1,69 @@
-# Hi there, I am Elif Merve 👋
+<div align="center">
+  <img height="200" src="header.png"  />
+</div>
 
-## I'm a Cloud | DevOps Engineer
+###
 
-- 👯 I’m looking to collaborate with other AWS Cloud and DevOps Engineers
-- 🥅 2024 Goals: Learning and traveling more
-- ⚡ Fun fact: I love traveling, discovering and reading
+<h3 align="center">Hi ! 🤍<br><br>I'm a Cloud  &  DevOps Engineer<br><br>- I’m looking to collaborate with other AWS Cloud and DevOps Engineers<br><br>- 2024 Goals: Learning and traveling more<br><br>- Fun fact: I love traveling, discovering and reading</h3>
 
-### Connect with me:
+###
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/emrverskn/)
-[<img align="left" alt="MAIL" width="30px" src="./img/gmail.svg" style="padding-right:10px;" />](mailto:emrverskn@gmail.com)
+<h2 align="center">✨ Top Skills ✨</h2>
 
+###
 
-### Languages and Tools:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" alt="amazonwebservices logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="45" alt="stackoverflow logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="45" alt="grafana logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="45" alt="prometheus logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45" alt="jenkins logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="45" alt="ansible logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="45" alt="apache logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="45" alt="nginx logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/flask/000000" height="45" alt="flask logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="45" alt="terraform logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="45" alt="kubernetes logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="45" alt="powershell logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
+</div>
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="44px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="40px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="32px" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="20px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="28px" src="https://cdn.worldvectorlogo.com/logos/grafana.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/ansible.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="70px" src="https://cdn.worldvectorlogo.com/logos/akamai-4.svg" style="padding-right:10px;" />
-<br>
+###
 
----
+<h3 align="center">Social 📩</h3>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+###
 
-  <img align="left" alt="codeSTACKr's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=emrverskn&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
 
-</details>
+###
