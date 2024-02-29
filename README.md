@@ -48,12 +48,6 @@
   <img src="https://cdn.simpleicons.org/powershell/5391FE" height="45" alt="powershell logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
 </div>
 
 ###
