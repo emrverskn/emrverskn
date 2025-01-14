@@ -45,7 +45,6 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="45" alt="kubernetes logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="45" alt="powershell logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" alt="css3 logo"  />
   <img width="15" />
